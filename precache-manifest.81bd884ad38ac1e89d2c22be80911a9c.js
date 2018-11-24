@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/schoolbasic-card-game/static/js/runtime~main.29be4170.js"
   },
   {
-    "revision": "fd98a1f6141cf8fbd6c9",
-    "url": "/schoolbasic-card-game/static/js/main.fd98a1f6.chunk.js"
+    "revision": "6b59381ea756bbe375af",
+    "url": "/schoolbasic-card-game/static/js/main.6b59381e.chunk.js"
   },
   {
     "revision": "e8c3f629982843e41a0a",
     "url": "/schoolbasic-card-game/static/js/1.e8c3f629.chunk.js"
   },
   {
-    "revision": "fd98a1f6141cf8fbd6c9",
-    "url": "/schoolbasic-card-game/static/css/main.981bbea2.chunk.css"
+    "revision": "6b59381ea756bbe375af",
+    "url": "/schoolbasic-card-game/static/css/main.054ef89b.chunk.css"
   },
   {
-    "revision": "7091c5eb2750e6616d74b1cc4a7d877e",
+    "revision": "e9abd1650100c419ab1c1f049cbaeb93",
     "url": "/schoolbasic-card-game/index.html"
   }
 ];

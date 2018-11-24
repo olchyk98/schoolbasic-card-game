@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/schoolbasic-card-game/precache-manifest.32849c72fe2934634937bfd9df1d258b.js"
+  "/schoolbasic-card-game/precache-manifest.81bd884ad38ac1e89d2c22be80911a9c.js"
 );
 
 workbox.clientsClaim();
