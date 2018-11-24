@@ -126,7 +126,7 @@ function reducer(state = {}, { type, payload }) {
             break;
             case 'PASS_CURRENT_TURN':
                 if(a.currentTurn === 'USER_TURN') {
-                    if(a.deskSize.length) {
+                    if(a.botDesk.length) {
                         a.isLoop = (a.isLoop === null) ? false : true;
                         a.currentTurn = "BOT_TURN";
                         execute('START_BOT_RUNNER', '');

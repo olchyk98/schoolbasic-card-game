@@ -18,6 +18,7 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "asd": "gh-pages -d build",
     "destroypage": "gh-pages-clean"
   },
   "eslintConfig": {
